@@ -1,0 +1,32 @@
+{
+    "id": "58EFBC1C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612273199860.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "data_bersih",
+        "caption": "data_bersih",
+        "totalObservations": 48,
+        "displayedObservations": 48,
+        "variables": 4,
+        "cacheKey": "A3E95639",
+        "object": "data_bersih",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=data_bersih&cache_key=A3E95639&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3180141919958494821,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612273199860,
+    "read_only": false,
+    "read_only_alternatives": []
+}
